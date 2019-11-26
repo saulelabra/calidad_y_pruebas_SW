@@ -50,4 +50,4 @@ elem = browser.find_element_by_xpath("//input[@type='submit']")
 elem.click()
 
 time.sleep(1)
-browser.close()
+#browser.close()
